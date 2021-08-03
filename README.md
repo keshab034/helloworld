@@ -1,1 +1,2 @@
-# helloworld
+
+gradle clean build
